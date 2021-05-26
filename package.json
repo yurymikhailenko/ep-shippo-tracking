@@ -9,14 +9,14 @@
     "start": "micro"
   },
   "dependencies": {
-    "@moltin/sdk": "github:ynnoj/js-sdk",
+    "@moltin/sdk": "^3.24.1",
     "micro": "^9.1.4",
     "micro-cors": "^0.1.0",
     "microrouter": "^3.1.1"
   },
   "devDependencies": {
     "husky": "^0.14.3",
-    "micro-dev": "^2.2.2",
+    "micro-dev": "^0.0.2",
     "prettier": "^1.11.1",
     "pretty-quick": "^1.4.1"
   }
